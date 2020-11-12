@@ -10,4 +10,4 @@ const BestPokemon = (props) => {
   )
 }
 
-export default BestPokemon
+export default BestPokemon;

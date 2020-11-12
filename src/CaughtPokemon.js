@@ -40,4 +40,4 @@ const CaughtPokemon = () => {
     )
   }
 
-  export default CaughtPokemon
+  export default CaughtPokemon;
